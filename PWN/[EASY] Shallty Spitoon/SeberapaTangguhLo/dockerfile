@@ -1,0 +1,18 @@
+FROM ubuntu:22.04
+
+EXPOSE 1442
+
+RUN apt update && \
+    apt install -y socat && \
+    rm -rf /var/lib/apt/lists/*
+
+RUN mkdir -p /home/pwn
+COPY table.txt /home/pwn/table.txt
+COPY Shallty-Spitoon /home/pwn/chall
+WORKDIR /home/pwn
+
+RUN chmod -R 755 /home/pwn && \
+    chmod 700 /usr/bin/* /bin/* /tmp /dev/shm && \
+    chmod 755 /usr/bin/env /bin/dash /bin/bash /bin/sh /bin/cat /usr/bin/id /bin/ls
+
+CMD ["socat", "TCP-LISTEN:1442,reuseaddr,fork", "EXEC:/home/pwn/chall,su=nobody"]

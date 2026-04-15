@@ -1,0 +1,380 @@
+{
+    "data": {
+        "Cryptography": [
+            {
+                "category": "Cryptography",
+                "description": "aku dichat seseorang no hp-nya: +62 818-0840-4121. Namun aneh dia setiap mengetik pesan hanya mengirim emoji. tolong dong ini emoji apaan sih? kenapa dia kirim berkali kali?\r\n\r\n\ud83d\udc5f\ud83d\udc6b\ud83d\udc6b\ud83d\udc67\ud83d\udc6a\ud83d\udc31\ud83d\udc26\ud83d\udc26\ud83d\udc67\ud83d\udc58\ud83d\udc6a\ud83d\udc6b\ud83d\udc5c\ud83d\udc59\ud83d\udc60\ud83d\udc65\ud83d\udc25\ud83d\udc5a\ud83d\udc66\ud83d\udc64\ud83d\udc26\ud83d\udc6d\ud83d\udc5e\ud83d\udc62\ud83d\udc67\ud83d\udc5c\ud83d\udc3b\ud83d\udc64\ud83d\udc59\r\n\r\n**Author:** Kaguai10",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 48,
+                "name": "[EASY] Emoji",
+                "points": 455,
+                "solves": 4
+            },
+            {
+                "category": "Cryptography",
+                "description": "Yang penting decode\r\nmama sudalah,\r\n\r\nYang Penting decode\r\nmama sudahlah,\r\n\r\nYang penting decode\r\nmama sudahlah,\r\n\r\nYang penting decode\r\nmama sudahlah\r\n\r\nGasss decode Simpel banget ini....",
+                "files": [
+                    "/files/7b4dfdb4e60141aa1062bc736996204c/chall.txt?token=eyJ1c2VyX2lkIjoxNCwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MTZ9.ad8cPQ.9s0ak_VKn1YSrIfqh4gwtgYoTDc"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 22,
+                "name": "[EASY] 8 x 8 = 6 x 4",
+                "points": 425,
+                "solves": 6
+            },
+            {
+                "category": "Cryptography",
+                "description": "Tahukah kamu siapa yang dijuluki Bapak Kriptografi? Ia adalah Abu Yusuf Ya\u2019qub ibn Ishaq al-Kindi. Julukan ini diberikan karena keberhasilannya dalam memecahkan sandi rahasia menggunakan metode yang sekarang dikenal sebagai kriptanalisis. Al-Kindi memanfaatkan frekuensi kemunculan huruf dalam sebuah teks, terutama huruf-huruf yang paling sering muncul, untuk menebak substitusi huruf secara konsisten. Dengan cara ini, ia mampu membuka pesan rahasia yang terenkripsi dengan sistem substitusi sederhana. Untuk lebih jelasnya kalian bisa membaca [disini](https://khazanah.republika.co.id/berita/p04th0313/seni-memecahkan-kode-alkindi)\r\n\r\nCoba sekarang Decode Pesan Rahasia ini: QVCFZ_XFDFL_NFZFM_ZWQAPFQ_CV_KFLV_LFYF_RWDFLFM_VCUR_EVQLV\r\n\r\n*Bahasa Indonesia\r\n\r\nFlag nya dimasukan kedalam Format `RAMADHAN22{FLAG}`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 21,
+                "name": "[MEDIUM] Al-Kindi",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "Forensic": [
+            {
+                "category": "Forensic",
+                "description": "Ramadhan Tiba Ramadhan Tiba, Tiba-tiba... Ramadhan Tiba-tiba.... Ramadhan.. Tiba-tiba audio admin di HACK HUHUHUHUUUUUU",
+                "files": [
+                    "/files/f17c114bdb2e1fdeca4d1581d0dd06fe/Ramadhan_Tiba.wav?token=eyJ1c2VyX2lkIjoxNCwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MTR9.ad8cPg.gjlaMb3Ik-KWhbueL4xWjxmwqok"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 18,
+                "name": "[EASY] Ramadhan Tiba",
+                "points": 470,
+                "solves": 3
+            },
+            {
+                "category": "Forensic",
+                "description": "Aku Khrisna\r\nAkan Segera Ku\r\nObati Kaki Besar Sang\r\nOnta Arab\r\nDengan Hati-hati\r\nDan Sabar\r\n\r\n\"Coba pahami lebih dalam. Jika kau gagal menangkap maknanya, berarti kau belum memahami apa itu Art. Sebab, di balik pertanyaan ini, ada sebuah mahakarya pemikiran yang sedang aku sampaikan.\"\r\n\r\n**Author:** Kaguai10\r\n",
+                "files": [
+                    "/files/360e3226374bfcbdf08fec5ff7246cf6/ctf.aod?token=eyJ1c2VyX2lkIjoxNCwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MjJ9.ad8cPg.WZOHTN4aQH6qH4-UXl3nuyTRKxA"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 29,
+                "name": "[Medium] AA-OO-DD",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Forensic",
+                "description": "kalo udh mau berbuka gini enaknya kita war takjil sihh... apalagi takjilnya yang esklusif dan \r\nspesial jangan lupa war takjilnya bareng sama doi pasti seru ada yang nemenin sama milihin takjil, oiya kalian \r\nkalo berbuka yang manis dulu apa langsung makan nasi?\r\n\r\nformat: RAMADHAN22{}\r\nauthor: STARRR",
+                "files": [
+                    "/files/28ff861f90b9aef6a2d46e5a497a8d94/hidden.txt?token=eyJ1c2VyX2lkIjoxNCwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MjN9.ad8cPg.5a1cxjTjH3q1514XGgpgCff7zFA"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 31,
+                "name": "[MEDIUM] takjil manis",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Forensic",
+                "description": "Ramadhan gini kalau buka puasa enaknya kita cari takjil apa yaa? Bakwan udang enak juga yaa... Kalian mau juga gak?\r\n\r\nAku nitip dong cariin Bakwan kayak di foto ini. Dan sebagai imbalannya akan kujadikan kamu Sepuh CTF\r\n\r\nSemangat Cari Udang ehhh Bakwan udang\r\n\r\nADMIN SALAH FORMAT \ud83d\ude4f, JADI FORMAT FLAGNYA: RAMADAHAN22{} ",
+                "files": [
+                    "/files/6edd08a5dca096f8fdd5c49d8551ff17/bakwan.jpg?token=eyJ1c2VyX2lkIjoxNCwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MTV9.ad8cPg.gjyAk1DtSPyEHADEK8s-iT-Fbtc"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 20,
+                "name": "[EASY] Udang Dibalik Bakwan",
+                "points": 380,
+                "solves": 9
+            },
+            {
+                "category": "Forensic",
+                "description": "Agus sedang menjadi teknisi jaringan bertepatan di bulan Ramadhan, tetapi saat ia bekerja jaringannya down agus pun sedikit kesal\r\ntetapi ia sabar dan mencari solusi apa yang menyebabkan jaringan tersebut merah (Down), Matahari yang terik menyinari tubuh agus dan menyorot kematanya\r\nnamun agus tidak putus asa dalam trouble shootingnya dia ngecapture jaringan apa yang menjadi penyebab Down tersebut\r\nkamu ada seorang teknisi jaringan forensik coba bantu agus untuk menemukan penyebab jaringan tersebut merah semua (Down)!!.\r\n",
+                "files": [
+                    "/files/f461a05851f7a3bcf56fbf50082ab82d/chall.pcapng?token=eyJ1c2VyX2lkIjoxNCwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MjR9.ad8cPg.liI7wT_eRowuCR2j_b-c5UrPQjY"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 32,
+                "name": "[EASY] Tralalero Tralala",
+                "points": 485,
+                "solves": 2
+            },
+            {
+                "category": "Forensic",
+                "description": "gunakan keahlian forensic kalian, \r\nkarena flagnya itu kurang keliatan kalian kalau sudah menemukan nya screenshots dan pc admin ya 0881025374448\r\n\r\npc gaisss kalau udah ketemu flagnya tapi jangan di spam\r\n\r\n**Author:** zdp",
+                "files": [
+                    "/files/95412763012886508026bcd851e67877/whyyy.pcap?token=eyJ1c2VyX2lkIjoxNCwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6Mzh9.ad8cPg.E0xcOzoxOjb-bc2an-6OnXSq9dU"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 44,
+                "name": "[EASY] DIALOG",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "Misc": [
+            {
+                "category": "Misc",
+                "description": "Deskripsi: Menjelang waktu berbuka, dan suasana kota yang mulai ramai dan kalian tidak tau mau ngapain? ini ada games\r\nseru banget buat nemenin kalian menjelang berbuka ataupun yang sedang ngabuburit, gamenya cuman mencet mencet doang kok\r\nnah tujuan kalian mendapatkan flag, sebelum ke gamenya kalian akan melewati puzzle terlebih dahulu, tetapi hacker punya cara sendiri untuk memainkan gamenya.\r\n\r\n*tidak harus membeli gamenya\r\n\r\nFormat: RAMADHAN22{}\r\n\r\n**author:** STARRR",
+                "files": [
+                    "/files/0a56592f2098a8ff10d7183db8738849/secret.bin?token=eyJ1c2VyX2lkIjoxNCwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MjZ9.ad8cPg.EFnyIsDfHNANGDM_7JI43NVnccs"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 34,
+                "name": "[MEDIUM] Geometry Dast 1447 H",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Misc",
+                "description": "Sebelum Kita mulai CTF lebih baik berdoa dulu biar tambah berkah puasanya\r\n\r\nRAMADHAN22{Bismillahirrahmanirrahim}\r\n\r\n<div style=\"display:none\">Password CTFd: #Pr3stas1</div>\r\n",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 16,
+                "name": "[EASY] Niat Main CTF",
+                "points": 100,
+                "solves": 16
+            },
+            {
+                "category": "Misc",
+                "description": "Ustad Fajar meninggalkan sebuah catatan ceramah tentang infaq dalam sebuah file zip??. Namun sayangnya dia melupakan password zipnya.Mana besok ada panggilan lagih... Terakhir yang Fajar ingat passwordnya adalah tempat dimana dia tinggal dan katanya deket banget sama Sekolah SMK 22. Tologn bantuin Ustad Fajar dungg, Nanti hadiahnya... Ada deh pokonya.",
+                "files": [
+                    "/files/ca83e847dac52cecae33dcbfc1b8a9e5/Catatan_Ceramah.zip?token=eyJ1c2VyX2lkIjoxNCwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MzV9.ad8cPg.E7xUkonYQt-dBb9ZHuBWIPXxOdg"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 38,
+                "name": "[MEDIUM] Ceramah ku taro, tapi lupa",
+                "points": 455,
+                "solves": 4
+            },
+            {
+                "category": "Misc",
+                "description": "aku punya sebuah id_rsa yang biasanya aku gunakan untuk konek ssh. namun saya lupa passphrase-nya bisakah kamu bantu saya untuk mencari pw-nya\r\n\r\nFormat Flag: RAMADHAN22{passphrase}\r\n\r\n**Author:** Kaguai10",
+                "files": [
+                    "/files/145c2f6768d30f0119b74fa84d0b3274/id_rsa?token=eyJ1c2VyX2lkIjoxNCwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6Mzl9.ad8cPg.x2OuwJspV98NvhdhjEx0FSfSTOE"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 47,
+                "name": "[EASY] ssh-keygen",
+                "points": 470,
+                "solves": 3
+            },
+            {
+                "category": "Misc",
+                "description": "Tolong kepada mas dimas, gameku jangan di rusak lagi yak. Kemaren dia saking ngk bisa nyelesainnya. Malah pake cheat jir... Kamu jangan seperti itu ya. Karena kamu itu adalah warrior sejati yang akan berjuang sampai dengan titik penghabisan. Tugas kamu simple kok, kamu harus nyari catatan yang hilang, disembunyikan oleh mas dimas didalam sebuah kotak gelap. Padahal sebelumnya ada. Semangat Warrior!!!\r\n\r\n[Gasss Main Roblox](https://www.roblox.com/share?code=198e65bd6dc2c842a5b9154819fd5586&type=ExperienceDetails&stamp=1771558914233)\r\n\r\n**Author:** 4wutkall",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 46,
+                "name": "Dari pada pusing CTF, maen roblox aja",
+                "points": 470,
+                "solves": 3
+            },
+            {
+                "category": "Misc",
+                "description": "aku dapat pesan dari sebuah 'PESAWAT A-N' katanya disuruh serahkan ke anak pramuka sedangkan aku gak punya no wa anak pramuka sekarang. coba bantu kasih dong soalnya isi nya tiket pesawat ke Korea. *Hint: ada 2 kode. \r\n\r\nHABIS INI KITA KE KOREA BARENG GASSSS\r\n\r\nFlag: RAMADHAN22{HASIL_KODE}\r\n**Author:** Kaguai10",
+                "files": [
+                    "/files/27e31e56f1784b6c1223f0d0b5401a2c/pramuka.png?token=eyJ1c2VyX2lkIjoxNCwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6Mzd9.ad8cPg.2NCCW-7QtPPU1pWXnvvz70DpVJM"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 42,
+                "name": "[MEDIUM] PRAMUKA 2",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Misc",
+                "description": "sang  Alfred Vail adalah seorang asisten dari penemu sandi ini. chall ini easy bat\r\n\r\nFLAG:RAMADHAN22{HASILDECODE}\r\n\r\n**Author:** Kaguai10",
+                "files": [
+                    "/files/414a6d3f69eb03dafbfe781641a1b8f0/audio.wav?token=eyJ1c2VyX2lkIjoxNCwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MzZ9.ad8cPg._RXP3WelzH3DRwhq6nLl-s0E-wc"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 39,
+                "name": "[EASY] PRAMUKA 1",
+                "points": 395,
+                "solves": 8
+            }
+        ],
+        "Osint": [
+            {
+                "category": "Osint",
+                "description": "Si Ramadhan telah menulis Rencana Ramadhan dia untuk Ramadhan 1445. Sayangnya Rencananya sekarang telah terhapus dari komputer-nya namun dia ingat dia pernah menaruh catatanya di internet, sayangnya dia telah mencari lama tapi tidak menemui file nya, Bantu Ramadhan menemukan catatan Rencana Ramadhannya\r\n\r\nFormat Flag: RAMADHAN22{NamaTempatYangInginDikunjungi_TakjilYangInginDibeli_KodeRahasia}\r\nContoh: RAMADHAN22{TamanRayaAr-Rahman_Lumpia_1728101}\r\n\r\n**Author:** Kaguai10",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 19,
+                "name": "[EASY] Rencana Ramadhan",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Osint",
+                "description": "Suatu malam, admin dan temannya memutuskan jalan-jalan santai menikmati suasana kota. Lampu-lampu hangat memantul di permukaan air, musik live terdengar dari kejauhan, dan sebuah panggung outdoor berdiri megah di tengah area terbuka. Beberapa musisi tampil menghibur pengunjung, sementara logo besar berbentuk oval terpampang terang di belakang panggung. Terdapat taman kecil dan kolam refleksi dengan lampu melingkar yang mempercantik suasana.\r\n\r\nAdmin ingin kembali ke tempat itu, tapi hanya foto ini yang tersisa. Tolong cariin ini dimana, admin kangen kesono\ud83d\ude2d\ud83d\ude2d.\r\n\r\nFormat jawaban:\r\nRAMADHAN22{Nama_Lengkap_Tempat_Nama_Daerah}\r\n**Author:** 4wutKall",
+                "files": [
+                    "/files/d9a51989219c85a72d8dc3e9f3319310/Tahun_baru.jpeg?token=eyJ1c2VyX2lkIjoxNCwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MTh9.ad8cPg.1j9bz8oAnmRTac-zZaoVEcB3_jU"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 23,
+                "name": "[EASY] Tahun Baru",
+                "points": 485,
+                "solves": 2
+            },
+            {
+                "category": "Osint",
+                "description": "Rupanya salah satu media sosial ITCLUB, followers-nya masih sedikit. bantu follow medsos-nya itclub yuk. karena nanti fans berat nya punya sebuah flag untuk kamu. segera cari tau flagnya\r\n\r\n**Author:** Kaguai10",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 45,
+                "name": "[EASY] FOLLOWERS ITCLUB 22",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Osint",
+                "description": "Infinity baru saja mau mengadakan event CTF Ramadhan tapi sayangnya udah ada yang ngehack web CTFd-nya Sebagai ahli Forensic dapat kah kamu mencari teka teki ini? Yuk bantu admin jadi Detektif aku yakin tukang hackernya diam diam meng-up Flag. It's Not Hard, That Simple.\r\n\r\nSegera Ungkapkan Kebeneran sang Hacker. Dan kamu ganti-kan Hacker Itu\r\n\r\n***Note: Ini bukan soal osint hard tapi kasus yang asik.**\r\n\r\n**Author:** Kaguai10",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 35,
+                "name": "[MEDIUM] KASUS!!!",
+                "points": 500,
+                "solves": 1
+            }
+        ],
+        "PWN": [
+            {
+                "category": "PWN",
+                "description": "yerrr!! saat ini gua mau masuk ke shallty spitoon, Tempat terkuat seantero 7 samudra. Katanya harus jadi tangguh dulu buat masuk kesana hmm... Gua kasih lu dulu dah, nanti gua nyusul.\r\n\r\n[nc infinity.antix.or.id 1442]()\r\n\r\n**Author:** 4wutKall",
+                "files": [
+                    "/files/419ed69cf264a8527ee0698d7da344f3/Shallty-Spitoon?token=eyJ1c2VyX2lkIjoxNCwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MjV9.ad8cPg.0mdgt0sqR0LArjNJX6JV93gSB3k"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 33,
+                "name": "[EASY] Shallty Spitoon",
+                "points": 485,
+                "solves": 2
+            }
+        ],
+        "Reverse": [
+            {
+                "category": "Reverse",
+                "description": "Sebuah binary verifikasi token menggunakan mekanisme yang lebih dinamis: tabel substitusi dibentuk saat runtime menggunakan pseudo-random shuffle, lalu dipadukan dengan chaining antar byte. Tidak ada flag plaintext di output `strings`. Tugasmu adalah membalik proses transformasi agar bisa mendapatkan token valid.\r\n\r\n**Author:** STARSHADOW",
+                "files": [
+                    "/files/d607755e40f16e24534905bd79ce9fc7/sahur_shuffle?token=eyJ1c2VyX2lkIjoxNCwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MjB9.ad8cPw.F7hXK9ptQELh1DBef6qrh5Wah_I"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 25,
+                "name": "[MEDIUM] Sahur Shuffle",
+                "points": 500,
+                "solves": 1
+            },
+            {
+                "category": "Reverse",
+                "description": "Ini adalah versi hard dengan beberapa lapisan proteksi logika: permutasi indeks input, transformasi multi-round, keystream pseudo-random, rotasi bit, substitusi S-box runtime, dan chaining antar byte. Validasi dilakukan terhadap hasil akhir terenkripsi, bukan input langsung. Analisis statis/dinamis yang terstruktur diperlukan untuk menurunkan kembali flag asli.\r\n\r\n**Author:** STARSHADOW",
+                "files": [
+                    "/files/ef569dd968677813278adfe7c9e4cb0d/multiround_lantern?token=eyJ1c2VyX2lkIjoxNCwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MTl9.ad8cPw.089ftwi_dJtd-Qd7gCMAQeWlSgE"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 24,
+                "name": "[HARD] Multiround Lantern",
+                "points": 500,
+                "solves": 1
+            },
+            {
+                "category": "Reverse",
+                "description": "Kamu menemukan binary checker token untuk absensi puasa. Program hanya menerima satu token yang benar, sementara flag tidak disimpan sebagai plaintext di binary. Lakukan reverse engineering untuk memahami alur validasi byte per byte dan rekonstruksi input yang lolos pengecekan.\r\n\r\n**Author:** STARSHADOW",
+                "files": [
+                    "/files/4090ac66ee6ab8af06696bf186ce816f/ramadhan22_gate?token=eyJ1c2VyX2lkIjoxNCwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MjF9.ad8cPw.xvZlJLyul0xl2EMqYGfP1Pz0ur4"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 26,
+                "name": "[MEDIUM] Puasa Token",
+                "points": 500,
+                "solves": 1
+            },
+            {
+                "category": "Reverse",
+                "description": "Sebuah mesin tua di warung Ramadhan meminta satu kalimat kunci.\r\nTugasmu sederhana: bongkar binary ini dan temukan flag yang tepat.\r\nChallenge ini cocok untuk pemula yang ingin latihan analisis dasar reverse engineering.",
+                "files": [
+                    "/files/6a34bc3e97948f7e11ac3c48d623991c/warung_strings?token=eyJ1c2VyX2lkIjoxNCwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6NDB9.ad8cPw.V8o6JeCh_HDuxMdXlitIYH84LkI"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 49,
+                "name": "warung-strings",
+                "points": 485,
+                "solves": 2
+            }
+        ],
+        "Web": [
+            {
+                "category": "Web",
+                "description": "Aku Suka dan cinta banget Bulan Ramadhan. Karena banyak Takjil, Bisa War Sarung, Keliling bangunin orang sahur, Dan banyak acara BukBer. Jadinya aku buatin web khusus untuk Bulan Ramadhan\r\n\r\n[I LOVE RAMADHAN](http://infinity.antix.or.id:1440/)",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 17,
+                "name": "[EASY] I LOVE RAMADHAN",
+                "points": 470,
+                "solves": 3
+            },
+            {
+                "category": "Web",
+                "description": "Ayooo Cari Kue untuk Kue Lebaran Kamu Nanti, Ouhh yaaa kata pemilik Toko dia punya 4 Kue paling mahal Tapi Belum terlihat didaftar Menu. Tapi kita bisa Kepoin tau wkwkwkwkwk\r\n\r\n[Ini Toko-nya](http://infinity.antix.or.id:1441/)\r\n**Author:** Kaguai10",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 30,
+                "name": "[EASY] Kue Lebaran",
+                "points": 485,
+                "solves": 2
+            }
+        ]
+    },
+    "title": "INFINITY RAMADHAN",
+    "url": "http://infinity.antix.or.id:2026"
+}

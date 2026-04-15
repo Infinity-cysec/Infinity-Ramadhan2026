@@ -1,0 +1,12 @@
+version: "3.8"
+
+services:
+  chall:
+    build: .
+    container_name: seberapa_tangguh_lo
+    ports:
+      - "1442:1442"
+    restart: unless-stopped
+    read_only: true
+    security_opt:
+      - no-new-privileges:true

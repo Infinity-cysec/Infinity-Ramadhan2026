@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  iloveramadhan:
+    build: .
+    container_name: chall_iloveramadhan
+    ports:
+      - "1440:80"
+    restart: unless-stopped
